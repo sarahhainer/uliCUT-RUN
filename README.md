@@ -1,5 +1,5 @@
 # CUT-RUN
- Included in this GitHub are example scripts for analyzing CUT&amp;RUN datasets
+ Included in this GitHub are example scripts for analyzing CUT&amp;RUN datasets and peak files from previously published ChIP-seq datasets (peaks were called using HOMER)
 
 Here is the general pipeline for analysis:
 
@@ -15,7 +15,7 @@ Here is the general pipeline for analysis:
 
 6) Make Size Distribution file for mm10
 
-6B) Make size distribution for sacCer3, spike in:
+6B) Make size distribution for sacCer3, spike in
 
 7) Make size classes (1-120 for TF, 150-500 for histones)
 
