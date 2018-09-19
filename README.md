@@ -1,8 +1,9 @@
 # CUT-RUN
-Example scripts for analyzing CUT&amp;RUN datasets
-
+ Included in this GitHub are example scripts for analyzing CUT&amp;RUN datasets
 
 Here is the general pipeline for analysis:
+
+
 
 1) trim reads to 25 bases (while keeping paired)
 
